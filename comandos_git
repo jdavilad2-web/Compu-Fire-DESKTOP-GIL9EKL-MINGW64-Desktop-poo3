@@ -8,7 +8,7 @@ git log --oneline
 git reset --hard ae5536
 
 /* publicar en github */
-git remote add origin https://github.com/carpaiz/c_poo.git
+git remote add origin https://github.com/_poo3.git
 git push -u origin master
 /*publicar cambio en github*/
 git push
